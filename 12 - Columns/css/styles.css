@@ -31,7 +31,7 @@ body {
     font-size: 3rem;
     text-align: center;
     color: black;
-    column-span: all;
+    /* column-span: all; */
 }
 
 .nowrap {
